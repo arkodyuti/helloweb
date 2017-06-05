@@ -1,9 +1,6 @@
 
 Activity Title: Why checking web page security is important?
 
-Image:
-
-Image credit:
 
 Made by: Shina Dhingra & HelloWeb Team
 

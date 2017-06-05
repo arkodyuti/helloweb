@@ -1,4 +1,3 @@
-Overview
 
 Module Title: Kitchen Of Coding
 
